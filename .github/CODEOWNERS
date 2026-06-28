@@ -1,0 +1,5 @@
+# Default ownership for Duggan/LeagueOS repositories.
+# SWAC work must stay outside this org/login.
+
+* @Duggan-Community-League/owners
+.github/ @Duggan-Community-League/owners
